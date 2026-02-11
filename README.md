@@ -45,7 +45,6 @@ The L298N motor driver acts as an interface between Arduino and motors. It enabl
 - Arduino Uno  
 - L298N Motor Driver  
 - RC Car Chassis  
-- DC Drive Motor  
 - Steering Motor  
 - Ultrasonic Sensor (HC-SR04)  
 - Servo Motor  
