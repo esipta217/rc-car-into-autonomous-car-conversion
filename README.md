@@ -107,7 +107,7 @@ If both front and rear obstacles exist, ultrasonic scanning determines the safes
 
 ## Hardware Build
 
-![RC Car Build](images/car_build.jpg)
+![RC Car Build](images/car_build.jpeg)
 
 ---
 
