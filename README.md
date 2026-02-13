@@ -10,7 +10,14 @@ Unlike conventional robotic vehicles that use differential drive, this RC chassi
 - One motor controls front wheel steering  
 - L298N motor driver controls both motors  
 - Ultrasonic sensor mounted on a servo performs environmental scanning  
-- Rear IR sensors detect obstacles during reversing  
+- Rear IR sensors detect obstacles during reversing
+  
+---
+
+## Development Phase Demonstration
+This video shows the RC car during the hardware assembly and testing phase. Final integration involved obstacle detection using ultrasonic and IR sensors along with motor driver control.
+
+[Click here to watch the demo video](demo/rc_car_demo.mp4)
 
 ---
 
@@ -126,11 +133,6 @@ The system outputs real-time debugging data including:
 - Distance readings  
 - IR sensor status  
 - Navigation decisions  
-
----
-## 🎥 Project Demo
-
-[Click here to watch the demo video](demo/rc_car_demo.mp4)
 
 ---
 ## Future Improvements
