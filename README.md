@@ -128,7 +128,11 @@ The system outputs real-time debugging data including:
 - Navigation decisions  
 
 ---
+## 🎥 Project Demo
 
+[Click here to watch the demo video](demo/rc_car_demo.mp4)
+
+---
 ## Future Improvements
 
 - Computer vision-based navigation  
